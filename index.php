@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Student Information Form</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <script src="js/validation.js"></script>
+    
 </head>
 <body>
     <h1>Student Information Form</h1>
